@@ -1,0 +1,16 @@
+C:\Users\eray\Desktop\examples-NET5\console-sample\bin\Debug\net5.0\console-sample.exe
+C:\Users\eray\Desktop\examples-NET5\console-sample\bin\Debug\net5.0\console-sample.deps.json
+C:\Users\eray\Desktop\examples-NET5\console-sample\bin\Debug\net5.0\console-sample.runtimeconfig.json
+C:\Users\eray\Desktop\examples-NET5\console-sample\bin\Debug\net5.0\console-sample.runtimeconfig.dev.json
+C:\Users\eray\Desktop\examples-NET5\console-sample\bin\Debug\net5.0\console-sample.dll
+C:\Users\eray\Desktop\examples-NET5\console-sample\bin\Debug\net5.0\ref\console-sample.dll
+C:\Users\eray\Desktop\examples-NET5\console-sample\bin\Debug\net5.0\console-sample.pdb
+C:\Users\eray\Desktop\examples-NET5\console-sample\obj\Debug\net5.0\console-sample.csproj.AssemblyReference.cache
+C:\Users\eray\Desktop\examples-NET5\console-sample\obj\Debug\net5.0\console-sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eray\Desktop\examples-NET5\console-sample\obj\Debug\net5.0\console-sample.AssemblyInfoInputs.cache
+C:\Users\eray\Desktop\examples-NET5\console-sample\obj\Debug\net5.0\console-sample.AssemblyInfo.cs
+C:\Users\eray\Desktop\examples-NET5\console-sample\obj\Debug\net5.0\console-sample.csproj.CoreCompileInputs.cache
+C:\Users\eray\Desktop\examples-NET5\console-sample\obj\Debug\net5.0\console-sample.dll
+C:\Users\eray\Desktop\examples-NET5\console-sample\obj\Debug\net5.0\ref\console-sample.dll
+C:\Users\eray\Desktop\examples-NET5\console-sample\obj\Debug\net5.0\console-sample.pdb
+C:\Users\eray\Desktop\examples-NET5\console-sample\obj\Debug\net5.0\console-sample.genruntimeconfig.cache
